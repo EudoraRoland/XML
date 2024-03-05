@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+    <campus location="New York">
+        <building>
+            <name>Engineering Building</name>
+            <floors>10</floors>
+            <departments>
+                <department>
+                    <name>Computer Science</name>
+                    <faculty>
+                        <professor>
+                            <name>John Smith</name>
+                            <position>Associate Professor</position>
+                            <research_interests>
+                                <interest>Artificial Intelligence</interest>
+                                <interest>Machine Learning</interest>
+                            </research_interests>
+                        </professor>
+                        <professor>
+                            <name>Alice Johnson</name>
+                            <position>Professor</position>
+                            <research_interests>
+                                <interest>Big Data</interest>
+                                <interest>Data Mining</interest>
+                            </research_interests>
+                        </professor>
+                    </faculty>
+                    <students>
+                        <student>
+                            <name>Michael Brown</name>
+                            <major>Computer Science</major>
+                            <year>Junior</year>
+                        </student>
+                        <student>
+                            <name>Emily Davis</name>
+                            <major>Computer Engineering</major>
+                            <year>Sophomore</year>
+                        </student>
+                    </students>
+                </department>
+            </departments>
+        </building>
+    </campus>
+</university>
